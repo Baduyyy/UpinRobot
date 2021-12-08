@@ -1,6 +1,6 @@
 
 
-from pyrogra import filters
+from pyrogram import filters
 
 from UpinRobot import pgram #pgram
 from UpinRobot.utils.errors import capture_err
